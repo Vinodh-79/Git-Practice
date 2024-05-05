@@ -3,4 +3,10 @@ Hello World !!
 
 The merge conflict message did not pop up in the git bash 
 
-adding the local file for your reference
+adding the local file content here
+
+<<<<<<< HEAD
+Hi World !!!!!!!!!!!!!!
+=======
+Hello World !!
+>>>>>>> 15c8bf1a73fa3494919f8582cb56df6e2a7146b9
