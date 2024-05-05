@@ -1,1 +1,4 @@
 Hello World !!
+
+
+The merge conflict message did not pop up in the git bash 
