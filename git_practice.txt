@@ -2,3 +2,5 @@ Hello World !!
 
 
 The merge conflict message did not pop up in the git bash 
+
+adding the local file for your reference
